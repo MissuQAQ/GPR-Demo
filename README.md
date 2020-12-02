@@ -1,5 +1,6 @@
 # GPR-Demo
 Used Images to explain the gaussian process regression
+
 # 2d-Gaussian
 ![image](https://github.com/MissuQAQ/GPR-Demo/blob/main/image_file/figure1.3.png)
 # 20d-Gaussain with samples
